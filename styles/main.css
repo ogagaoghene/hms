@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow-x: hidden;
+  font-family: 'Crimson Pro', serif;
+  font-size: 1rem;
+}
+
+.form_size {
+  width: 400px;
+  border: 1px solid lightgrey;
+  padding: 35px;
+  margin-top: 160px;
+}
+
+.admin_panel {
+  max-width: 98%;
+  margin-top: 100px;
+}
+
+.card_title {
+  background: #3498D8;
+  padding: 10px;
+  color: #fff;
+}
+
+h1 {
+  text-align: center;
+}
+
+.side_menu {
+  background: #3498D8;
+  color: #fff;
+}
+
+
+.edge {
+  border-radius: 8px;
+}
+
+.panel-label {
+  width: 85px;
+}
+
+.text-control {
+  width: 80%;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.bttn-signup {
+  width: 80%;
+  padding: 10px;
+  margin-left: 5px;
+  margin-top: 5px;
+  border:1px solid white;
+  border-radius: 8px;
+  background: #3498D8;
+  color: #fff;
+  font-size: 1.1rem;
+}
